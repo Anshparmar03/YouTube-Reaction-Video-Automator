@@ -18,5 +18,5 @@ This Python application automates the creation and uploading of reaction videos 
 5. Uploads the video to your YouTube channel as a private video (editable to public).
 
 ## License
-MIT License. Use at your own risk, respecting YouTube's terms and copyright laws.
+MIT License. This is a project made for fun and should be used respecting YouTube's terms and copyright laws.
 ```
