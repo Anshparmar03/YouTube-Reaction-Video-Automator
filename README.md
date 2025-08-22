@@ -5,7 +5,7 @@ This Python application automates the creation and uploading of reaction videos 
 
 ## Features
 - **Fetch Trending Videos**: Retrieves the top 10 trending videos using the YouTube Data API v3.
-- **Download Videos**: Downloads videos with `yt-dlp` (use with caution due to terms violation).
+- **Download Videos**: Downloads videos with `yt-dlp`.
 - **Record Reaction**: Plays the video while capturing your live webcam reaction using OpenCV.
 - **Split-Screen Compositing**: Combines original and reaction videos into a half-screen format using FFmpeg.
 - **Upload to YouTube**: Uploads the final video to your channel via the YouTube API with OAuth authentication.
