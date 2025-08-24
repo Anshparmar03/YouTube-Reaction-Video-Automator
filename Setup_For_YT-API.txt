@@ -1,0 +1,4 @@
+First go tob this link (console.cloud.google.com).
+Create a project and enable the YouTube Data API v3.
+Create an API key for fetching shorts(Vidoes).
+For uploading, create OAuth 2.0 client ID and secret and download as client_secrets.json.
